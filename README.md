@@ -78,6 +78,3 @@ The dashboard transformed raw sales data into meaningful business insights, help
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-LinkedIn: Add your LinkedIn profile link
-
-GitHub: Add your GitHub profile link
